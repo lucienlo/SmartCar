@@ -1,6 +1,7 @@
 package UI;
 
 import UI.components.Car;
+import UI.components.Sensor;
 import UI.components.SimulatedMap;
 
 import javax.swing.*;
@@ -32,8 +33,16 @@ public class MainForm {
         frame.setVisible(true);
         frame.setResizable(false);
 
-        Car car = new Car(mainform.map.getRealLocation(0,0));
+        Car car = new Car(mainform.map, mainform.readInput("./src/mapConifg"));
         mainform.map.add(car);
+        mainform.map.repaint();
+
+        try {
+            Thread.sleep(1000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        car.move(mainform.map.getRealLocation(0,1));
 
     }
 
@@ -53,8 +62,4 @@ public class MainForm {
 
     }
 
-
-    public void setBorder(){
-
-    }
 }
