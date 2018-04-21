@@ -37,12 +37,14 @@ public class MainForm {
         mainform.map.add(car);
         mainform.map.repaint();
 
-        try {
-            Thread.sleep(1000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+        for(int i=1; i<9; i++) {
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+            car.move(new Point(0,1));
         }
-        car.move(mainform.map.getRealLocation(0,1));
 
     }
 

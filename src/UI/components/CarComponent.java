@@ -8,4 +8,5 @@ import java.awt.*;
 public interface CarComponent {
 
     public void renewLocation();
+    public void rotate(int angle);
 }

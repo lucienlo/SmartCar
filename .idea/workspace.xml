@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9845f96-1e27-48be-8d37-97dc478d7ddc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UI/components/CarComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UI/components/Edge.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UI/components/Sensor.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/SmartCar/mapConifg" afterPath="$PROJECT_DIR$/out/production/SmartCar/mapConifg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UI/MainForm.java" afterPath="$PROJECT_DIR$/src/UI/MainForm.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UI/components/Car.java" afterPath="$PROJECT_DIR$/src/UI/components/Car.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UI/components/SimulatedMap.java" afterPath="$PROJECT_DIR$/src/UI/components/SimulatedMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UI/components/CarComponent.java" afterPath="$PROJECT_DIR$/src/UI/components/CarComponent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/UI/components/Sensor.java" afterPath="$PROJECT_DIR$/src/UI/components/Sensor.java" />
     </list>
     <ignored path="SmartCar.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,14 +32,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainForm.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainForm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UI/MainForm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
-              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1433#1441#0" expanded="true" />
+                <element signature="e#1481#1489#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,21 +48,21 @@
       <file leaf-file-name="Car.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UI/components/Car.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="865">
-              <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+            <state relative-caret-position="55">
+              <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#518#532#0" expanded="true" />
+                <element signature="e#515#529#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarComponent.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CarComponent.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UI/components/CarComponent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="150">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -72,8 +71,8 @@
       <file leaf-file-name="Sensor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UI/components/Sensor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state relative-caret-position="154">
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,7 +93,7 @@
       <file leaf-file-name="SimulatedMap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UI/components/SimulatedMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
+            <state relative-caret-position="-155">
               <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -106,8 +105,8 @@
       <file leaf-file-name="mapConifg" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mapConifg">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -136,12 +135,12 @@
       <list>
         <option value="$PROJECT_DIR$/src/MainForm.java" />
         <option value="$PROJECT_DIR$/src/UI/components/Map.java" />
-        <option value="$PROJECT_DIR$/src/mapConifg" />
-        <option value="$PROJECT_DIR$/src/UI/components/CarComponent.java" />
         <option value="$PROJECT_DIR$/src/UI/components/SimulatedMap.java" />
+        <option value="$PROJECT_DIR$/src/UI/components/CarComponent.java" />
         <option value="$PROJECT_DIR$/src/UI/components/Sensor.java" />
-        <option value="$PROJECT_DIR$/src/UI/components/Car.java" />
         <option value="$PROJECT_DIR$/src/UI/MainForm.java" />
+        <option value="$PROJECT_DIR$/src/mapConifg" />
+        <option value="$PROJECT_DIR$/src/UI/components/Car.java" />
       </list>
     </option>
   </component>
@@ -720,12 +719,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523891074599</updated>
       <workItem from="1523891075919" duration="9704000" />
-      <workItem from="1523952123830" duration="22015000" />
+      <workItem from="1523952123830" duration="30923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31719000" />
+    <option name="totallyTimeSpent" value="40627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -785,7 +784,7 @@
           <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1433#1441#0" expanded="true" />
+            <element signature="e#1481#1489#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -796,7 +795,7 @@
           <caret line="22" column="76" selection-start-line="22" selection-start-column="76" selection-end-line="22" selection-end-column="76" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#518#532#0" expanded="true" />
+            <element signature="e#515#529#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -835,11 +834,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mapConifg">
+    <entry file="file://$PROJECT_DIR$/src/UI/components/SimulatedMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding />
+        <state relative-caret-position="-155">
+          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -851,53 +852,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/components/CarComponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/components/SimulatedMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/components/Sensor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="154">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UI/components/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="865">
-          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#518#532#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UI/MainForm.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="250">
+          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1433#1441#0" expanded="true" />
+            <element signature="e#1481#1489#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mapConifg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/components/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#529#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/components/CarComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
